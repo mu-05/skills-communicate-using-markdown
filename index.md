@@ -5,3 +5,6 @@ SELECT username, birthdate
   FROM users
  WHERE time_spent > 60;
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
